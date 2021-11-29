@@ -1,0 +1,22 @@
+{
+    "appetizers": [
+        {"name": "mozzarella sticks", "ingredients": ["LOW MOISTURE PART SKIM MOZZARELLA CHEESE (PASTEURIZED PART SKIM MILK, CHEESE CULTURES, SALT, ENZYME)", "ENRICHED WHEAT FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID)", "WATER", "SOYBEAN OIL", "YELLOW CORN FLOUR"], "description": " flavorful and delicious. Crispy on the outside and gooey on the inside! They cook really fast in the air fryer or convection oven."},
+        {"name": "chicken wings", "ingredients": ["Chicken wing", "Cayenne pepper hot sauce", "Butter"], "description": "chicken wing section that is generally deep-fried and then coated or dipped in a sauce consisting of a vinegar-based cayenne pepper hot sauce and melted butter prior to serving."}
+    ],
+    "cold sandwiches": [
+        {"name": "Tuna Sandwich", "ingredients": ["tuna", "bread", "mayonase"], "description": "a sandwich made from canned tuna"},
+        {"name": "Veggie Sandwich", "ingredients": ["lettuce", "brocilas", "bread"], "description": "All the fresh vegetables and other healthy options you need for your diet"}
+    ],
+    "hot sandwiches": [
+        {"name": "Hamburger", "ingredients": ["meat", "bread", "ketchup"], "description": "popular sandwich consisting of one or more meat patties placed in a bun or a bread roll"},
+        {"name": "Bacon Sandwich", "ingredients": ["bacon", "meat", "bread", "ketchup"], "description": "a sandwich of cooked bacon between bread that is optionally spread with butter, and may be seasoned with ketchup or brown sauce"}
+    ],
+    "desserts": [
+        {"name": "ice cream", "ingredients": ["sugar", "syrup"], "description": "A rich, sweet, creamy frozen food made from variously flavored cream and milk products churned or stirred to a smooth consistency during the freezing process and often containing gelatin, eggs, fruits, nuts, etc."},
+        {"name": "parfait", "ingredients": ["sugar", "egg", "syrup", "cream"], "description": "A dessert consisting of layers of ice cream, fruit, etc., served in a tall glass"}
+    ],
+    "drinks": [
+        {"name": "coke", "ingredients": ["CARBONATED WATER", "HIGH FRUCTOSE CORN SYRUP", "CARAMEL COLOR", "PHOSPHORIC ACID", "NATURAL FLAVORS", "CAFFEINE"], "description": "a carbonated soft drink flavored with vanilla, cinnamon, citrus oils and other flavorings"},
+        {"name": "dr. pepper", "ingredients": ["Carbonated Water", "Sugar", "Colour"], "description": "a carbonated soft drink"}
+    ]
+}
