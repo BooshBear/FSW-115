@@ -1,5 +1,45 @@
-/* 
-    Create all the style definitions necessary to make your app look as close 
-    to the example as possible. You will need to use display:grid to make the 
-    bug reports display in three columns (see week 4).
-*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#start {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 30px;
+}
+input {
+    margin: 5px;
+}
+#result {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#unordList {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+    border: 4px solid dimgray;
+    min-height: 60px;
+    min-width: 20rem;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: blanchedalmond;
+}
+ul {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+li {
+    margin: .5rem;
+}
+.delete {
+    margin-left: 10px;
+}
